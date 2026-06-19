@@ -30,10 +30,8 @@
       "descriptionsAdded": 0,
       "latestAvailableValuationsAdded": 0
     },
-    "snapshotGeneratedAt": "2026-06-19T10:51:37Z",
-    "snapshotPublisher": "publish_preipo_snapshot.py",
-    "snapshotRepo": "https://github.com/DH808/global-ai-preipo-dashboard-data.git",
-    "snapshotSourceLocalPath": "/Users/mac/.hermes/apps/global-ai-preipo-dashboard/data/state.json"
+    "snapshotGeneratedAt": "2026-06-19T10:51:26Z",
+    "snapshotVersion": "v9-mobile-detail-enriched-investors"
   },
   "companies": [
     {
